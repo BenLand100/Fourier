@@ -1,0 +1,7 @@
+I had entirely intended to write a speech synthesis library, but ended up 
+abandoning it for better uses of my time. The left over bits consisted of a 
+pretty nice GUI for playing with fourier transforms of sounds and generating
+sounds from those transforms. It's worth a look if you're interested in that 
+sort of thing.
+
+~Benjamin Land 
